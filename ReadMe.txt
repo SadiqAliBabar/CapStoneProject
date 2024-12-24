@@ -47,6 +47,8 @@ Install the required dependencies:
 Copy code
 pip install -r requirements.txt
 
+Data is here : https://drive.google.com/drive/folders/1hqjOC6M3OmpwmAuBFAD99LR73ofpyXD5?usp=sharing
+
 Usage
 -Run the Notebook: Open the notebook.ipynb in a Jupyter environment.
 -Input Video: Place your video in the appropriate directory.
