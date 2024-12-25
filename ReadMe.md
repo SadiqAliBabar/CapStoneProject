@@ -37,9 +37,11 @@ Data is here: [Google Drive Link](https://drive.google.com/drive/folders/1hqjOC6
 ## Showing Some magic of my project
 My project achieved about 81% accuracy :) not bad for a beginner.
 
-![screenshot](assets\ss2.png)
+![screenshot](https://drive.google.com/file/d/1c0t1-6GDy36aDNLQpEcm-oR2m8LV6_X9/view?usp=drive_link
+)
 
-![screenshot](assets\ss1.png)
+![screenshot](https://drive.google.com/file/d/1sEPPD9iWQxEqCxXzXs08FiZpL4I-obYz/view?usp=sharing
+)
 
 
 
@@ -55,16 +57,10 @@ My project achieved about 81% accuracy :) not bad for a beginner.
 Here is a preview of one of the output videos generated from the model:
 
 ### Prediction 1
-
-<video width="600" controls autoplay loop>
-  <source src="ouputvideofolder\v1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[ViewVideo](https://drive.google.com/file/d/1SfbftbYXp-p4X4i8HXyBu_zlaIazSrCX/view?usp=sharing
+)
 
 ### Prediction 2
+[ViewVideo](https://drive.google.com/file/d/1JbqGvRbJeN-WvOooGSPLhMJmehjT2ZUE/view?usp=sharing)
 
-<video width="600" controls autoplay loop>
-  <source src="ouputvideofolder\v2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
