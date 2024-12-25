@@ -37,9 +37,9 @@ Data is here: [Google Drive Link](https://drive.google.com/drive/folders/1hqjOC6
 ## Showing Some magic of my project
 My project achieved about 81% accuracy :) not bad for a beginner.
 
-![Screenshot](assets\ss2.png)
+![screenshot](assets\ss2.png)
 
-![Screenshot](assets\ss1.png)
+![screenshot](assets\ss1.png)
 
 
 
@@ -57,14 +57,14 @@ Here is a preview of one of the output videos generated from the model:
 ### Prediction 1
 
 <video width="600" controls autoplay loop>
-  <source src="OutputVideoFolder\Screen Recording 2024-12-24 182445.mp4" type="video/mp4">
+  <source src="ouputvideofolder\v1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### Prediction 2
 
 <video width="600" controls autoplay loop>
-  <source src="OutputVideoFolder\Screen Recording 2024-12-24 182544.mp4" type="video/mp4">
+  <source src="ouputvideofolder\v2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
