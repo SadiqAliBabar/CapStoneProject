@@ -37,13 +37,9 @@ Data is here: [Google Drive Link](https://drive.google.com/drive/folders/1hqjOC6
 ## Showing Some magic of my project
 My project achieved about 81% accuracy :) not bad for a beginner.
 
-![screenshot](https://drive.google.com/file/d/1c0t1-6GDy36aDNLQpEcm-oR2m8LV6_X9/view?usp=drive_link
-)
+![Screenshot](https://drive.google.com/uc?id=1idD7ePHhmBWJxCm2BfUOPhJGOS0Upt-I)
 
-![screenshot](https://drive.google.com/file/d/1sEPPD9iWQxEqCxXzXs08FiZpL4I-obYz/view?usp=sharing
-)
-
-
+![Screenshot](https://drive.google.com/uc?id=1k7z8qe_7kqWDRKQEVbSfBKixkZLvKjEr)
 
 ## Model Details
 - **Model Type**: CNN + LSTM
